@@ -10,7 +10,7 @@
 
 string[] array = {"123", "Hello", "world", ":-)"};
 int lenArray = array.Length;
-string[] array1 = new string [2];
+string[] array1 = new string [lenArray];
 int j=0;
 for(int i =0; i < lenArray; i++)
 {
